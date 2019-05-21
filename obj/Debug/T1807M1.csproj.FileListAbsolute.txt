@@ -1,0 +1,6 @@
+C:\Users\chien\RiderProjects\T1807M1\T1807M1\bin\Debug\T1807M1.exe
+C:\Users\chien\RiderProjects\T1807M1\T1807M1\bin\Debug\T1807M1.pdb
+C:\Users\chien\RiderProjects\T1807M1\T1807M1\obj\Debug\T1807M1.csprojAssemblyReference.cache
+C:\Users\chien\RiderProjects\T1807M1\T1807M1\obj\Debug\T1807M1.csproj.CoreCompileInputs.cache
+C:\Users\chien\RiderProjects\T1807M1\T1807M1\obj\Debug\T1807M1.exe
+C:\Users\chien\RiderProjects\T1807M1\T1807M1\obj\Debug\T1807M1.pdb
